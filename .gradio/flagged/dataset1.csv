@@ -1,0 +1,11 @@
+Upload Meeting Recording,Transcript,Meeting Summary,timestamp
+.gradio\flagged\Upload Meeting Recording\3a6735545c859ee2ca26\sample.mp3, Good morning everyone. Thank you for joining today's meeting. We discussed the progress of our AI meeting summarizer project. The speech to text module has been completed using the Western model and the next step is to indeed it IBM Watson X AI for generating summaries and extracting key points. We also decided to build a user-friendly interface using Gradius so that the users can upload meeting recordings easily. Our goal is to complete the project by the end of this week and publish it on GitHub for our portfolio. Thank you everyone.,"**Meeting Summary:**
+The meeting discussed the current progress and future plans for the AI meeting summarizer project. The team has completed the speech-to-text module using the Western model and is moving forward with integrating IBM Watson X AI for summary generation and key point extraction. A user-friendly interface using Gradius is also being developed to facilitate easy upload of meeting recordings. The project aims to be completed by the end of the week, with the final product to be published on GitHub.
+
+**Key Points:**
+
+1. **Project Progress**: The speech-to-text module using the Western model is complete.
+2. **Next Steps**: Integrate IBM Watson X AI for generating summaries and extracting key points.
+3. **User Interface**: Develop a user-friendly interface using Gradius for easy meeting recording uploads.
+4. **Project Deadline**: Complete the project by the end of the week.
+5. **Publication**: Publish the final project on GitHub for portfolio purposes.",2026-07-01 00:44:20.525654
