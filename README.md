@@ -35,7 +35,7 @@ This project solves that problem by automatically:
 | Python | Programming Language |
 | OpenAI Whisper | Speech-to-Text |
 | Groq API | Fast LLM Inference |
-| Llama 3.3 | Text Summarization |
+| GPT-OSS 120B | Text Summarization |
 | Gradio | Web Interface |
 | python-dotenv | Environment Variables |
 | FFmpeg | Audio Processing |
@@ -154,7 +154,7 @@ Transcript
 Groq API
       │
       ▼
-Llama 3.3
+GPT-OSS 120B
 (Summary + Key Points)
       │
       ▼
